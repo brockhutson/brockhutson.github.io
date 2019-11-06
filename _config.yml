@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Brock Hutson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science Portfolio"
+  bio              : "Data Enthusiest"
   location         : "Princeton, NJ"
   email            :
   links:
-    - label: "brockhutson89@outlook.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+       url: mailto:brockhutson89@outlook.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/brockhutson"
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -298,5 +298,5 @@ defaults:
       path: ""
       type: Pages
     values:
-      layout: signle
+      layout: single
       author_profile: true
