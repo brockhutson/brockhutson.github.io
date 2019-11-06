@@ -3,8 +3,7 @@ layout: archive
 permalink: /course/
 title: "Online Courses and the projects that came with"
 author_profile: true
-header:
-  image: "assets/images/gaming.jpg"
+
 ---
 
 
