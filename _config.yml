@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brock's Data Science Portfolio"
+title                    : "Brock's Hutson"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brock Hutson"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Brock Hutson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Enthusiest"
+  bio              : "Data Science Portfolio"
   location         : "Princeton, NJ"
   email            : "brockhutson89@outlook.com"
   links:
