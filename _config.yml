@@ -109,9 +109,8 @@ analytics:
 author:
   name             : "Brock Hutson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Enthusiest |
-                      Princeton, NJ"
-  location         : #"Princeton, NJ"
+  bio              : "Data Enthusiest"
+  location         : "Princeton, NJ"
   email            : "brockhutson89@outlook.com"
   links:
     - label: "Email"
