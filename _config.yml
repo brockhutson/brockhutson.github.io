@@ -111,11 +111,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Enthusiest"
   location         : "Princeton, NJ"
-  email            :
+  email            : "brockhutson89@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:brockhutson89@outlook.com"
+      # url: mailto:username@email
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
