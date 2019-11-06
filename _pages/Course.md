@@ -4,7 +4,7 @@ permalink: /course/
 title: "Online Courses and the projects that came with"
 author_profile: true
 header:
-  image: "/images/gaming.jpg"
+  image: "assets/images/gaming.jpg"
 ---
 
 
