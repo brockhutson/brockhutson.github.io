@@ -1,10 +1,11 @@
+---
 layout: archive
 permalink: /course/
 title: "Online Courses and the projects that came with"
 author_profile: true
 header:
   image: "/images/gaming.jpg"
-___
+---
 
 
 {% include group-by-array collection=site.posts field="tags" %}
