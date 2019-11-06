@@ -37,6 +37,11 @@
         {{ author.bio | markdownify }}
       </div>
     {% endif %}
+    {% if author.location %}
+      <div class ="author__location" itemprop="description">
+        {{ author.location | mardownify }}
+      </div>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
