@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: https://brockhutson.github.io/about/
   - title: "Course"
-    url: /course/
+    url: https://brockhutson.github.io/course/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
