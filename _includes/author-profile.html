@@ -37,9 +37,6 @@
         {{ author.bio | markdownify }}
       </div>
     {% endif %}
-  </div>
-
-  <div class="author__urls-wrapper">
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
@@ -259,4 +256,5 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+
 </div>
